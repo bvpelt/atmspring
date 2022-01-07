@@ -16,7 +16,7 @@
 	<properties>
 		<activejdbc.version>1.4.11</activejdbc.version>
 		<cucumber.version>1.2.4</cucumber.version>
-		<dbh2.version>1.4.191</dbh2.version>
+		<dbh2.version>2.0.206</dbh2.version>
 		<jetty.version>9.3.6.v20151106</jetty.version>
 		<junit.version>4.12</junit.version>
 		<liquibase.version>3.4.2</liquibase.version>
